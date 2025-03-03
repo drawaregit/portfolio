@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Bonjour tout le monde !	</title>
-	<atom:link href="/testportfolioPASESPACEDETRAVAIL/2024/07/04/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
-	<link>/testportfolioPASESPACEDETRAVAIL/2024/07/04/bonjour-tout-le-monde/</link>
+	<atom:link href="/portfolio/2024/07/04/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
+	<link>/portfolio/2024/07/04/bonjour-tout-le-monde/</link>
 	<description></description>
 	<lastBuildDate>Thu, 04 Jul 2024 20:58:44 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Par : Un commentateur ou commentatrice WordPress		</title>
-		<link>/testportfolioPASESPACEDETRAVAIL/2024/07/04/bonjour-tout-le-monde/#comment-1</link>
+		<link>/portfolio/2024/07/04/bonjour-tout-le-monde/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentateur ou commentatrice WordPress]]></dc:creator>
 		<pubDate>Thu, 04 Jul 2024 20:58:44 +0000</pubDate>
-		<guid isPermaLink="false">/testportfolioPASESPACEDETRAVAIL/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/portfolio/?p=1#comment-1</guid>
 
 					<description><![CDATA[Bonjour, ceci est un commentaire.
 Pour débuter avec la modération, la modification et la suppression de commentaires, veuillez visiter l’écran des Commentaires dans le Tableau de bord.
