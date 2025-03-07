@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Admin &#8211; Portfolio Neal Leveque-yvard</title>
-	<atom:link href="//author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://neally.dev/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://neally.dev</link>
 	<description></description>
 	<lastBuildDate>Thu, 04 Jul 2024 20:58:44 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.7.2</generator>
 
 <image>
-	<url>//wp-content/uploads/2024/07/favico.png</url>
+	<url>https://neally.dev/wp-content/uploads/2024/07/favico.png</url>
 	<title>Admin &#8211; Portfolio Neal Leveque-yvard</title>
-	<link>/</link>
+	<link>https://neally.dev</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Bonjour tout le monde !</title>
-		<link>//2024/07/04/bonjour-tout-le-monde/</link>
-					<comments>//2024/07/04/bonjour-tout-le-monde/#comments</comments>
+		<link>https://neally.dev/2024/07/04/bonjour-tout-le-monde/</link>
+					<comments>https://neally.dev/2024/07/04/bonjour-tout-le-monde/#comments</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Thu, 04 Jul 2024 20:58:44 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">//?p=1</guid>
+		<guid isPermaLink="false">https://neally.dev/?p=1</guid>
 
 					<description><![CDATA[Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !]]></description>
 										<content:encoded><![CDATA[
 <p>Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>//2024/07/04/bonjour-tout-le-monde/feed/</wfw:commentRss>
+					<wfw:commentRss>https://neally.dev/2024/07/04/bonjour-tout-le-monde/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
